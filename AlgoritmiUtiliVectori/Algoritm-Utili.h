@@ -141,6 +141,8 @@ void  testare() {
 	afisare(v, d);
 	bubbleSort(v, d);
 
+	///ana are mere
+
 	cout << "\n=============Dupa======================" << endl;
 	afisare(v, d);
 }

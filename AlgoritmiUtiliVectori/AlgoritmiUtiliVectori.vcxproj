@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="Algoritm-Utili.h" />
     <ClInclude Include="CorectareTema.h" />
+    <ClInclude Include="Tema-Fisa2h.h" />
     <ClInclude Include="TemaFisa.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

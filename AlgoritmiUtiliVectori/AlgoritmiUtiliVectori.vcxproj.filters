@@ -29,5 +29,8 @@
     <ClInclude Include="CorectareTema.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Tema-Fisa2h.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
